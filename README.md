@@ -3,4 +3,4 @@
 
 ###  思维导图
 
-* [XMind](http://www.xmind.net/)  XMind是一款实用的思维导图软件，简单易用、美观、功能强大.
+* [XMind](http://www.xmind.net/)  一款实用的思维导图软件，简单易用、美观、功能强大.

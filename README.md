@@ -1,5 +1,5 @@
 # awesome-window-software
-收集Window下的程序员使用的好软件、好工具
+收集最全的Web攻城狮资源汇总
 
 ###  思维导图
 

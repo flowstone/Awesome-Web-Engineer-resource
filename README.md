@@ -9,7 +9,7 @@
 
 * [XAMPP](https://www.apachefriends.org/index.html)：XAMPP（Apache+MySQL+PHP+PERL）是一个功能强大的建站集成软件包。
 * [WampServer](http://www.wampserver.com/en/)：Windows Apache Mysql PHP集成安装环境，即在window下的apache、php和mysql的服务器软件。
-* [Wnmp](https://www.getwnmp.org/)：Nginx+MariaDB+PHP开发环境环境集成套件包。
+* [Wnmp](https://www.getwnmp.org/)：Windows+Nginx+MariaDB+PHP开发环境环境集成套件包。
 
 ###  前端框架
 

@@ -23,7 +23,7 @@
 ### 文本对比检查
 * [Diffchecker](https://www.diffchecker.com/)：Diffchecker 是一款非常好用的在线文本对比工具,能够高亮显示有差异的行和字符。
 * [Beyond Compare](http://www.scootersoftware.com/)：主要用途是对比两个文件夹或者文件，并将差异以颜色标出。
-###  开发者社区
+
 
 ###  思维导图
 

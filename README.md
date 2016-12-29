@@ -10,6 +10,8 @@
 * [XAMPP](https://www.apachefriends.org/index.html)：XAMPP（Apache+MySQL+PHP+PERL）是一个功能强大的建站集成软件包。
 * [WampServer](http://www.wampserver.com/en/)：Windows Apache Mysql PHP集成安装环境，即在window下的apache、php和mysql的服务器软件。
 * [Wnmp](https://www.getwnmp.org/)：Windows+Nginx+MariaDB+PHP开发环境环境集成套件包。
+* [OneinStack](https://oneinstack.com/)：一键PHP/JAVA安装工具。
+* [LAMP](https://lamp.sh/)：LAMP 一键安装包是一个用 Linux Shell 编写的可以为 CentOS/Debian/Ubuntu 系统的 VPS 或服务器安装 LAMP(Linux + Apache + MySQL/MariaDB/Percona + PHP) 生产环境的 Shell 程序。
 
 ###  前端框架
 [收集最好的前端框架](https://github.com/flowstone/Awesome-Web-Engineer-resource/blob/master/html5.md) **请点击召唤**

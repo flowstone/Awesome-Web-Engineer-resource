@@ -32,6 +32,11 @@
 
 * [XMind](http://www.xmind.net/)  一款实用的思维导图软件，简单易用、美观、功能强大.
 
+### 编程练习网站
+* [LintCode](http://www.lintcode.com/)           
+* [LeetCode](https://leetcode.com/)           
+* [hihoCoder](http://hihocoder.com/)      
+* [freeCodeCamp](http://www.freecodecamp.cn/)         
 
 ### 代码托管
 * [GitHub](https://github.com/)

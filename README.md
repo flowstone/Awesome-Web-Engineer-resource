@@ -31,6 +31,7 @@
 ###  思维导图
 
 * [XMind](http://www.xmind.net/)  一款实用的思维导图软件，简单易用、美观、功能强大.
+* [Mindjet](https://www.mindjet.com/)
 
 ### 编程练习网站
 * [LintCode](http://www.lintcode.com/)           
